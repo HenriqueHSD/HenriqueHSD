@@ -1,4 +1,4 @@
-<h1 align="center">Ola, meu nome é Henrique de Souza Damião</h1>
+<h1 align="center">Olá, meu nome é Henrique de Souza Damião</h1>
 <h3 align="center">Sou densenvolvendor backend Java</h3>
 
 <h3 align="left">Connect with me:</h3>
